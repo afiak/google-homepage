@@ -1,0 +1,1 @@
+This is just a example page for the google homepage. As required by The Odin Project.
